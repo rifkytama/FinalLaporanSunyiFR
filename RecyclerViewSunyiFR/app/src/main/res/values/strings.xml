@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecyclerViewSunyiFR</string>
+
+    <string-array name="menu">
+        <item>Americano</item>
+        <item>Coffee Latte</item>
+        <item>Mathca Latte</item>
+        <item>Choclate</item>
+        <item>Banana Milkshake</item>
+        <item>Lemon Tea</item>
+        <item>Chicken Katsu</item>
+        <item>Blackpaper Teriyaki</item>
+        <item>Ramen</item>
+        <item>Spaghetti</item>
+        <item>French Fries</item>
+        <item>gyoza</item>
+        <item>tacos</item>
+
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Rp. 20.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 18.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 28.000</item>
+        <item>Rp. 30.000</item>
+        <item>Rp. 25.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 18.000</item>
+        <item>Rp. 22.000</item>
+        <item>Rp. 22.000</item>
+    </string-array>
+</resources>
